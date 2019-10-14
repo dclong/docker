@@ -1,0 +1,3 @@
+[submodule "docker-lubuntu-pycharm"]
+	path = docker-lubuntu-pycharm
+	url = git@github.com:dclong/docker-lubuntu-pycharm.git
