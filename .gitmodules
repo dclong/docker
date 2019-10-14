@@ -1,3 +1,87 @@
 [submodule "docker-lubuntu-pycharm"]
 	path = docker-lubuntu-pycharm
 	url = git@github.com:dclong/docker-lubuntu-pycharm.git
+[submodule "docker-jupyterhub-selenium-chrome"]
+	path = docker-jupyterhub-selenium-chrome
+	url = git@github.com:dclong/docker-jupyterhub-selenium-chrome.git
+[submodule "docker-jupyter"]
+	path = docker-jupyter
+	url = git@github.com:dclong/docker-jupyter.git
+[submodule "docker-lubuntu-py"]
+	path = docker-lubuntu-py
+	url = git@github.com:dclong/docker-lubuntu-py.git
+[submodule "docker-lubuntu-jdk"]
+	path = docker-lubuntu-jdk
+	url = git@github.com:dclong/docker-lubuntu-jdk.git
+[submodule "docker-jupyter-nodejs"]
+	path = docker-jupyter-nodejs
+	url = git@github.com:dclong/docker-jupyter-nodejs.git
+[submodule "docker-gitpod-py3"]
+	path = docker-gitpod-py3
+	url = git@github.com:dclong/docker-gitpod-py3.git
+[submodule "docker-ubuntu_b"]
+	path = docker-ubuntu_b
+	url = git@github.com:dclong/docker-ubuntu_b.git
+[submodule "docker-jupyterlab"]
+	path = docker-jupyterlab
+	url = git@github.com:dclong/docker-jupyterlab.git
+[submodule "docker-jupyterhub-almond"]
+	path = docker-jupyterhub-almond
+	url = git@github.com:dclong/docker-jupyterhub-almond.git
+[submodule "docker-gitpod-svim"]
+	path = docker-gitpod-svim
+	url = git@github.com:dclong/docker-gitpod-svim.git
+[submodule "docker-lubuntu"]
+	path = docker-lubuntu
+	url = git@github.com:dclong/docker-lubuntu.git
+[submodule "docker-jupyterhub-ds"]
+	path = docker-jupyterhub-ds
+	url = git@github.com:dclong/docker-jupyterhub-ds.git
+[submodule "docker-jupyterhub-toree"]
+	path = docker-jupyterhub-toree
+	url = git@github.com:dclong/docker-jupyterhub-toree.git
+[submodule "docker-jupyterhub-py"]
+	path = docker-jupyterhub-py
+	url = git@github.com:dclong/docker-jupyterhub-py.git
+[submodule "docker-ldeepin"]
+	path = docker-ldeepin
+	url = git@github.com:dclong/docker-ldeepin.git
+[submodule "docker-ubuntu_cn"]
+	path = docker-ubuntu_cn
+	url = git@github.com:dclong/docker-ubuntu_cn.git
+[submodule "docker-selenium"]
+	path = docker-selenium
+	url = git@github.com:dclong/docker-selenium.git
+[submodule "docker-python"]
+	path = docker-python
+	url = git@github.com:dclong/docker-python.git
+[submodule "docker-lubuntu-qt5"]
+	path = docker-lubuntu-qt5
+	url = git@github.com:dclong/docker-lubuntu-qt5.git
+[submodule "docker-lubuntu-pyside2"]
+	path = docker-lubuntu-pyside2
+	url = git@github.com:dclong/docker-lubuntu-pyside2.git
+[submodule "jupyterhub-selenium-firefox"]
+	path = jupyterhub-selenium-firefox
+	url = git@github.com:dclong/jupyterhub-selenium-firefox.git
+[submodule "docker-jupyterhub-jdk"]
+	path = docker-jupyterhub-jdk
+	url = git@github.com:dclong/docker-jupyterhub-jdk.git
+[submodule "docker-jupyterhub-beakerx"]
+	path = docker-jupyterhub-beakerx
+	url = git@github.com:dclong/docker-jupyterhub-beakerx.git
+[submodule "docker-jupyterhub-ai"]
+	path = docker-jupyterhub-ai
+	url = git@github.com:dclong/docker-jupyterhub-ai.git
+[submodule "docker-jupyterhub"]
+	path = docker-jupyterhub
+	url = git@github.com:dclong/docker-jupyterhub.git
+[submodule "docker-jdk"]
+	path = docker-jdk
+	url = git@github.com:dclong/docker-jdk.git
+[submodule "docker-deepin_cn"]
+	path = docker-deepin_cn
+	url = git@github.com:dclong/docker-deepin_cn.git
+[submodule "docker-deepin_b"]
+	path = docker-deepin_b
+	url = git@github.com:dclong/docker-deepin_b.git
