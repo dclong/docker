@@ -61,9 +61,9 @@
 [submodule "docker-lubuntu-pyside2"]
 	path = docker-lubuntu-pyside2
 	url = git@github.com:dclong/docker-lubuntu-pyside2.git
-[submodule "jupyterhub-selenium-firefox"]
-	path = jupyterhub-selenium-firefox
-	url = git@github.com:dclong/jupyterhub-selenium-firefox.git
+[submodule "docker-jupyterhub-selenium-firefox"]
+	path = docker-jupyterhub-selenium-firefox
+	url = git@github.com:dclong/docker-jupyterhub-selenium-firefox.git
 [submodule "docker-jupyterhub-jdk"]
 	path = docker-jupyterhub-jdk
 	url = git@github.com:dclong/docker-jupyterhub-jdk.git
