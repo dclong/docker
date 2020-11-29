@@ -85,3 +85,6 @@
 [submodule "docker-deepin_b"]
 	path = docker-deepin_b
 	url = git@github.com:dclong/docker-deepin_b.git
+[submodule "docker_image_builder"]
+	path = docker_image_builder
+	url = git@github.com:dclong/docker_image_builder.git
