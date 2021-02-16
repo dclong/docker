@@ -97,3 +97,6 @@
 [submodule "docker-jupyterhub-more"]
 	path = docker-jupyterhub-more
 	url = git@github.com:dclong/docker-jupyterhub-more.git
+[submodule "docker-python-nodejs"]
+	path = docker-python-nodejs
+	url = git@github.com:dclong/docker-python-nodejs.git
