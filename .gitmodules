@@ -88,3 +88,12 @@
 [submodule "docker_image_builder"]
 	path = docker_image_builder
 	url = git@github.com:dclong/docker_image_builder.git
+[submodule "docker-hadoop"]
+	path = docker-hadoop
+	url = git@github.com:dclong/docker-hadoop.git
+[submodule "docker-vscode-server"]
+	path = docker-vscode-server
+	url = git@github.com:dclong/docker-vscode-server.git
+[submodule "docker-jupyterhub-more"]
+	path = docker-jupyterhub-more
+	url = git@github.com:dclong/docker-jupyterhub-more.git
